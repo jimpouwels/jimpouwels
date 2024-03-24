@@ -11,7 +11,9 @@ I consider myself good at:
 * Refactoring Techniques
 * Agile, XP and Engineering practices
 
-I have programmed in:
+I have worked professionally programmed in:
 * C++
 * C#
+* Swift
+* Objective-C
 * Ruby
