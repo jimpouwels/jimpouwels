@@ -6,5 +6,5 @@ In my spare time I like to play around with small projects, in particular my own
 **I consider myself good at:**
 Java, Javascript/Typescript, PHP, Docker, Test Driven Development, Refactoring Techniques, Agile, XP and Engineering practices
 
-**I have professionally written code in:** 
+**I have worked with, but not an expert at:** 
 C++, Python, C#, Swift, Objective-C, Ruby
